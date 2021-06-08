@@ -1,0 +1,16 @@
+number of segmentation: 100 number of trajectories: 100 result: 0.9928753469541206 error: 0.007124653045879392
+number of segmentation: 100 number of trajectories: 1000 result: 0.9995221176886094 error: 4.7788231139056503E-4
+number of segmentation: 100 number of trajectories: 10000 result: 1.0016949256583116 error: 0.0016949256583116412
+number of segmentation: 100 number of trajectories: 100000 result: 1.0002561883925936 error: 2.561883925935593E-4
+number of segmentation: 1000 number of trajectories: 100 result: 0.993121608885756 error: 0.006878391114244042
+number of segmentation: 1000 number of trajectories: 1000 result: 0.9998658336704738 error: 1.3416632952623075E-4
+number of segmentation: 1000 number of trajectories: 10000 result: 1.0005517921299876 error: 5.517921299875717E-4
+number of segmentation: 1000 number of trajectories: 100000 result: 0.9998391955381009 error: 1.6080446189914444E-4
+number of segmentation: 10000 number of trajectories: 100 result: 1.0016008467596078 error: 0.0016008467596078102
+number of segmentation: 10000 number of trajectories: 1000 result: 0.9994634251698741 error: 5.365748301259243E-4
+number of segmentation: 10000 number of trajectories: 10000 result: 0.9999806428404023 error: 1.935715959766604E-5
+number of segmentation: 10000 number of trajectories: 100000 result: 0.9999802764760046 error: 1.9723523995374137E-5
+number of segmentation: 100000 number of trajectories: 100 result: 1.0008209987274759 error: 8.209987274758745E-4
+number of segmentation: 100000 number of trajectories: 1000 result: 1.0000676021684267 error: 6.760216842671696E-5
+number of segmentation: 100000 number of trajectories: 10000 result: 1.0000571306965915 error: 5.7130696591523034E-5
+number of segmentation: 100000 number of trajectories: 100000 result: 0.9999809407645089 error: 1.9059235491059034E-5
